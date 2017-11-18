@@ -4,8 +4,8 @@
     <description>
         Velammal Mobile app
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="md@avkstudios.com" href="http://avkstudios.com">
+        Sathya Narayana
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
