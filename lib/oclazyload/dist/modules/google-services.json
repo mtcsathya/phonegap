@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "62249093174",
+    "project_id": "firebase-velammal"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62249093174:android:986df3e8b96a21dd",
+        "android_client_info": {
+          "package_name": "com.velammal.velammalmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62249093174-bbfd9dlaandrqotjv7cs0m2j8lf9i8o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv3XOrGl3zo_lfGMjOQDDH1paScCT8gdU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
