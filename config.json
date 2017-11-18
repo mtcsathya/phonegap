@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.annexure.annexuremobile",
+    "app_id" : "com.velammal.velammalmobile",
     "appname": "Velammal Mobile",
     "desktopappname": "Velammal Desktop",
     "versioncode" : "2020",
@@ -10,8 +10,8 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://annexure.velammal.online",
+    "siteurl": "https://velammal.online",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "gcmpn": "219242349332"
+    "gcmpn": "5912145843"
 }
