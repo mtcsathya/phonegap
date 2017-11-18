@@ -1,5 +1,5 @@
 {
-    "app_id" : "com.vidyamantra.cmoodleapp87",
+    "app_id" : "com.annexure.annexuremobile",
     "appname": "Velammal Mobile",
     "desktopappname": "Velammal Desktop",
     "versioncode" : "2020",
@@ -13,5 +13,5 @@
     "siteurl": "annexure.velammal.online",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "gcmpn": "578987199728"
+    "gcmpn": "694767596569"
 }
