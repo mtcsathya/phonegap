@@ -10,7 +10,7 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "customurlscheme": "moodlemobile",
-    "siteurl": "annexure.velammal.online",
+    "siteurl": "http://annexure.velammal.online",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "gcmpn": "694767596569"
